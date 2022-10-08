@@ -1,0 +1,14 @@
+:root
+{
+    --main-color:#0078FF;
+    --second-color:#cde1f8;
+}
+
+body 
+{
+    font-family: var(--bs-font-sans-serif);
+}
+
+.table{
+    border-top: #dee2e6 1px solid ;
+}
